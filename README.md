@@ -49,12 +49,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Nataliia's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliiaLitskevych&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliiaLitskevych&layout=compact&theme=radical)  
-
----
-
  ## 🔗 Connect with Me  
 
   [<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/netlify.svg" width="50" height="50"/>](https://myportfolio-nataliia-litskevych.netlify.app/)
